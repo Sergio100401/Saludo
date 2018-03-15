@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\sergi\source\repos\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\Users\sergi\source\repos\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\Users\sergi\source\repos\Saludo\Saludo\obj\Debug\Saludo.csprojResolveAssemblyReference.cache
+C:\Users\sergi\source\repos\Saludo\Saludo\obj\Debug\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\sergi\source\repos\Saludo\Saludo\obj\Debug\Saludo.pdb
